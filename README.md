@@ -4,4 +4,8 @@
 
 掘金：[街角小林](https://juejin.cn/user/325111170756279/posts)
 
+公众号：理想青年实验室
+
+![](http://assets.lxqnsys.com/WechatIMG875.jpeg)
+
 [![wanglin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
