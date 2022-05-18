@@ -9,3 +9,5 @@
 ![](http://assets.lxqnsys.com/WechatIMG875%20%284%29.png)
 
 [![wanglin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats" />
