@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn" />
 
-男，90后，4年+前端搬砖工，热爱前端及开源。
+男，90后，5年+前端搬砖工，热爱前端及开源。
 
 个人网站：[理想青年实验室](http://lxqnsys.com/)
 
