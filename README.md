@@ -14,7 +14,7 @@
 
 ![](http://assets.lxqnsys.com/WechatIMG875%20%284%29.png)
 
-一些有意思的项目 ↓
+一些有意思的小项目 ↓
 
 [关联线探究，如何连接流程图的两个节点](https://github.com/wanglin2/AssociationLineDemo)
 
