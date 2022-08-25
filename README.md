@@ -1,8 +1,15 @@
-![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<div align="center">
 
-![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+<img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+<img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+</div>
 
 👨‍💻 男，90后，5年+前端搬砖工，热爱前端及开源。
 
