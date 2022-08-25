@@ -1,7 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn" />
-
 ![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 👨‍💻 男，90后，5年+前端搬砖工，热爱前端及开源。
 
