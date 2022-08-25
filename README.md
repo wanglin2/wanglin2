@@ -1,5 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wanglin2&hide=contribs,prs,issues&include_all_commits=true&locale=cn" />
 
+<img align="right" src="https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+
+<img align="right" src="https://raw.githubusercontent.com/wanglin2/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+
 👨‍💻 男，90后，5年+前端搬砖工，热爱前端及开源。
 
 💻 个人网站：[理想青年实验室](http://lxqnsys.com/)
