@@ -27,6 +27,8 @@
 
 💡 一些有意思的小项目 ↓
 
+🔨[虚拟DOM的diff算法动画演示](https://github.com/wanglin2/VNode_visualization)
+
 🧵 [关联线探究，如何连接流程图的两个节点](https://github.com/wanglin2/AssociationLineDemo)
 
 🌲 [绘制一棵漂亮的树，可用于绘制思维导图](https://github.com/wanglin2/tree_layout)
