@@ -27,6 +27,8 @@
 
 💡 一些有意思的小项目 ↓
 
+🕰️[一个基于Vue2的视频时间轴组件](https://github.com/wanglin2/VideoTimeLine)
+
 🔨[虚拟DOM的diff算法动画演示](https://github.com/wanglin2/VNode_visualization)
 
 🧵 [关联线探究，如何连接流程图的两个节点](https://github.com/wanglin2/AssociationLineDemo)
