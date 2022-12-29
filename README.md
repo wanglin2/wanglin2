@@ -27,6 +27,8 @@
 
 💡 一些有意思的小项目 ↓
 
+🔥[用flex布局做一个流程设计器](https://github.com/wanglin2/simple-flow-chart)
+
 🕰️[一个基于Vue2的视频时间轴组件](https://github.com/wanglin2/VideoTimeLine)
 
 🔨[虚拟DOM的diff算法动画演示](https://github.com/wanglin2/VNode_visualization)
