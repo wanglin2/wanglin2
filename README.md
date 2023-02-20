@@ -15,9 +15,9 @@
 
 💻 个人网站：[理想青年实验室](http://lxqnsys.com/)
 
-🖊️ 各大平台主页：[掘金](https://juejin.cn/user/325111170756279/posts)、[segmentfault](https://segmentfault.com/u/jiejiaoxiaolin/articles)、[知乎](https://www.zhihu.com/people/wang-lin-49-43-65/posts)、[CSDN](https://blog.csdn.net/sinat_33488770?type=blog)、[开源中国](https://my.oschina.net/u/4592513)、[博客园](https://www.cnblogs.com/wanglinmantan/)、[阿里云开发者社区](https://developer.aliyun.com/profile/expert/b4yftxgi3elg4)
+🖊️ 平台主页：[掘金](https://juejin.cn/user/325111170756279/posts)、[segmentfault](https://segmentfault.com/u/jiejiaoxiaolin/articles)、[知乎](https://www.zhihu.com/people/wang-lin-49-43-65/posts)、[CSDN](https://blog.csdn.net/sinat_33488770?type=blog)、[开源中国](https://my.oschina.net/u/4592513)
 
-🏷️ 平台标签：掘金优秀作者、阿里云开发者社区专家博主、华为云云享专家
+🏷️ 平台标签：掘金优秀作者、阿里云开发者社区专家博主、华为云云享专家、SegmentFault Top Writer
 
 📧 邮箱：1013335014@qq.com
 
