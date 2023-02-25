@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E4%BC%98%E7%A7%80%E4%BD%9C%E8%80%85-%231e80ff" />
     </a>
     <a href="https://segmentfault.com/u/jiejiaoxiaolin/articles">
-        <img src="https://img.shields.io/badge/SegmentFault-Top%20Writer-%2300965e" />
+        <img src="https://img.shields.io/badge/%E6%80%9D%E5%90%A6-Top%20Writer-%2300965e" />
     </a>
     <a href="https://www.zhihu.com/people/wang-lin-49-43-65">
         <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E9%80%8F%E6%98%8E-%23056de8" />
@@ -26,8 +26,6 @@
         <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E7%90%86%E6%83%B3%E9%9D%92%E5%B9%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4-%23F5EB4B" />
     </a>
 </p>
-
-<img align='left' src='http://assets.lxqnsys.com/%E5%8D%83%E5%BA%93%E7%BD%91_%E7%BC%96%E7%A8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%89%A9_%E5%85%83%E7%B4%A0%E7%BC%96%E5%8F%B713134110.png' width='200'>
 
 <div align="center">
 
@@ -61,7 +59,7 @@
 
 <li>🧵 <a href="https://github.com/wanglin2/AssociationLineDemo">关联线探究，如何连接流程图的两个节点</a></li>
 
-<li>🌲 <a href="https://github.com/wanglin2/tree_layout">绘制一棵漂亮的树，可用于绘制思维导图</a>[]()</li>
+<li>🌲 <a href="https://github.com/wanglin2/tree_layout">绘制一棵漂亮的树，可用于绘制思维导图</a></li>
 
 <li>📃 <a href="https://github.com/wanglin2/markdown_editor_sync_scroll_demo">如何实现一个能精确同步滚动的Markdown编辑器</a></li>
 
