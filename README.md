@@ -1,4 +1,4 @@
-<h1 align="left">你好，我是街角小林 👋</h1>
+<h1 align="center">你好，我是街角小林 👋</h1>
 
 <p>
     <a href="https://github.com/wanglin2">
