@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E5%B0%8F%E9%80%8F%E6%98%8E-%23056de8" />
     </a>
     <a href="https://blog.csdn.net/sinat_33488770?type=blog">
-        <img src="https://img.shields.io/badge/CSDN-%E6%8E%92%E4%B8%8D%E4%B8%8A%E5%90%8D-%23fc5531" />
+        <img src="https://img.shields.io/badge/CSDN-%E6%B2%A1%E6%8E%92%E5%90%8D-%23fc5531" />
     </a>
     <a href="https://bbs.huaweicloud.com/community/usersnew/id_1666353952883753">
         <img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91-%E4%BA%91%E4%BA%AB%E4%B8%93%E5%AE%B6-%23c7000b" />
@@ -41,7 +41,7 @@
 </div>
 
 
-👨‍💻 男，90后，5年+前端搬砖工，热爱前端及开源。 📧 邮箱（微信同号）：1013335014@qq.com ⭐ 公众号：理想青年实验室（二维码↓）
+👨‍💻 男，90后，5年+前端，热爱前端和开源。 📧 邮箱（微信同号）：1013335014@qq.com ⭐ 公众号：理想青年实验室（二维码↓）
 
 <img align="right" src="http://assets.lxqnsys.com/WechatIMG875%20%284%29.png" />
 
