@@ -28,22 +28,21 @@
 </p>
 
 <div align="center">
-
-<a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
-<img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
-<img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
-
+    <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
+        <img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+        <img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    </a>
+    <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
+        <img src="https://github.com/wanglin2/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+        <img src="https://github.com/wanglin2/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    </a>
 </div>
-
 
 👨‍💻 男，90后，5年+前端，热爱前端和开源。 📧 邮箱（微信同号）：1013335014@qq.com ⭐ 公众号：理想青年实验室（二维码↓）
 
 <img align="right" src="http://assets.lxqnsys.com/WechatIMG875%20%284%29.png" />
+
+<img align="right"  src="http://assets.lxqnsys.com/%E5%8D%83%E5%BA%93%E7%BD%91_%E7%BC%96%E7%A8%8B%E7%A8%8B%E5%BA%8F%E5%91%98%E5%86%99%E4%BB%A3%E7%A0%81%E4%BA%BA%E7%89%A9_%E5%85%83%E7%B4%A0%E7%BC%96%E5%8F%B713134110.png" width="200" />
 
 <h2>💡 一些有意思的小项目 ↓</h2>
 
@@ -69,5 +68,7 @@
 
 <li>🌨️ <a href="https://github.com/wanglin2/snow">一个简单的下雪和下雨效果</a></li>
   
- </ul>
+</ul>
+ 
+
 
