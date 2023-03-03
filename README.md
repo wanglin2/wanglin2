@@ -47,6 +47,8 @@
 <h2>💡 一些有意思的小项目 ↓</h2>
 
 <ul>
+    
+<li>☀️ <a href="https://github.com/wanglin2/simple-novice-guide">一个简洁的新手引导库</a></li>
 
 <li>🔠 <a href="https://github.com/wanglin2/canvas-editor-demo">用canvas做一个富文本编辑器</a></li>
 
