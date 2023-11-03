@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是街角小林 👋</h1>
+<h1 align="center">hello，我是街角小林 👋</h1>
 
 <p>
     <a href="https://github.com/wanglin2">
@@ -38,9 +38,9 @@
     </a>
 </div>
 
-👨‍💻 男，90后，6年+前端，热爱前端和开源。 📧 邮箱（微信同号）：1013335014@qq.com ⭐ 公众号：理想青年实验室（二维码↓）
+👨‍💻 男，90后，直奔程序员失业年龄；6年+前端，除了前端啥也不会；热爱前端和开源，喜欢钱但赚不到。 📧 邮箱（微信同号）：1013335014@qq.com ⭐ 公众号：理想青年实验室（二维码↓）
 
-🏢 目前开源的主要精力在维护一个Web思维导图项目：[mind-map](https://github.com/wanglin2/mind-map)。另外也在寻找一份更好的工作机会，坐标杭州，如果你有推荐欢迎联系我~
+🏢 不要叫我大佬，我只是一个连大厂一面都过不去的小菜鸡。
 
 <img align="right" src="http://assets.lxqnsys.com/WechatIMG875%20%284%29.png" />
 
