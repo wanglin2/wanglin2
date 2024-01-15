@@ -22,9 +22,6 @@
     <a href="https://developer.aliyun.com/profile/expert/b4yftxgi3elg4">
         <img src="https://img.shields.io/badge/%E9%98%BF%E9%87%8C%E4%BA%91-%E4%B8%93%E5%AE%B6%E5%8D%9A%E4%B8%BB-%23ff6a00" />
     </a>
-    <a href="http://lxqnsys.com/">
-        <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-%E7%90%86%E6%83%B3%E9%9D%92%E5%B9%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4-%23F5EB4B" />
-    </a>
 </p>
 
 <div align="center">
